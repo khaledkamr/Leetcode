@@ -3,18 +3,21 @@ class Solution
 public:
     int findDuplicate(vector<int>& nums) 
     {
-        sort(nums.begin(), nums.end());
-        int n = nums.size();
-        int dub;
-
-        for(int i = 0; i < n-1; i++)
+        long long dup;
+        vector<int>freq(100000,0);
+        sort(nums.begin(),nums.end());
+        for(auto num:nums)
         {
-            if(nums[i] == nums[i+1])
+            if(freq[num] != 0)
             {
-                dub = nums[i];
+                dup = num;
                 break;
             }
+            else
+            {
+                freq[num]++;
+            }
         }
-        return dub;
+        return dup;
     }
 };
