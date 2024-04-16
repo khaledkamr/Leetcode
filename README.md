@@ -1,2 +1,2 @@
 # Leetcode
-The solutions of the problems on Leetcode
+Solutions of the Daily challenge problems  and Study plans on Leetcode
