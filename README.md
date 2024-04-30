@@ -11,12 +11,12 @@ This repository contains solutions of the Daily challenge problems and Study pla
 - ### SQL 50 study plan
   Basic to intermediate SQL topics 50 essential SQL questions Best for 1 month of prep time.
   
-![Screenshot 2024-04-24 115339](https://github.com/khaledkamr/Leetcode/assets/94804298/38c89017-c5d0-412f-8cf9-0d989c7db5ce)
+![Screenshot 2024-04-30 205047](https://github.com/khaledkamr/Leetcode/assets/94804298/d8db383d-fa7b-4d44-b623-5e18867f4396)
 <hr>
 
 - ### 30 Days of JavaScript study plan
   Designed for JavaScript beginners Master basic JavaScript skills Support high-quality editorials.
-  
-![Screenshot 2024-04-24 134728](https://github.com/khaledkamr/Leetcode/assets/94804298/a255ee20-54ef-4152-93f4-75fa22c78fa6)
+
+![Screenshot 2024-04-30 204817](https://github.com/khaledkamr/Leetcode/assets/94804298/5df3cf57-dec3-4347-a3ea-d5ff0bb38229)
 <hr>
 
