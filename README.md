@@ -1,8 +1,5 @@
 # Leetcode
 
-# Description
-This repository contains solutions of the Daily challenge problems and Study plans on Leetcode
-
 # contents
 - ### Daily challenge problems
   Contains solution of the problems with different programing languages, and if you check [my profile](https://leetcode.com/u/khaledkamr/) on Leetcode you will find these solutions with deatailed explaination.
