@@ -14,6 +14,6 @@
 - ### 30 Days of JavaScript study plan
   Designed for JavaScript beginners Master basic JavaScript skills Support high-quality editorials.
 
-![Screenshot 2024-05-03 174029](https://github.com/khaledkamr/Leetcode/assets/94804298/c4b3adcc-51fa-4280-89c2-d1d93a5e7b02)
+![Screenshot 2024-05-04 092200](https://github.com/khaledkamr/Leetcode/assets/94804298/b1fc108b-5dc2-4a93-9b3e-84cd845710a6)
 <hr>
 
