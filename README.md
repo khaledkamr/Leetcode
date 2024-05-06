@@ -2,7 +2,7 @@
 
 # contents
 - ### Daily challenge problems
-  Contains solution of the problems with different programing languages, and if you check [my profile](https://leetcode.com/u/khaledkamr/) on Leetcode you will find these solutions with deatailed explaination.
+  Contains solution of the daily problems with different programing languages, and if you check [my profile](https://leetcode.com/u/khaledkamr/) on Leetcode you will find these solutions with deatailed explaination.
   <hr>
 
 - ### SQL 50 study plan
