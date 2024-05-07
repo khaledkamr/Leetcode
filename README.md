@@ -8,7 +8,7 @@
 - ### SQL 50 study plan
   Basic to intermediate SQL topics 50 essential SQL questions Best for 1 month of prep time.
   
-![Screenshot 2024-05-06 135129](https://github.com/khaledkamr/Leetcode/assets/94804298/cdd6d387-faee-4a38-abd1-e95f8bd28f40)
+![Screenshot 2024-05-07 231120](https://github.com/khaledkamr/Leetcode/assets/94804298/88d476ea-3e8a-42f4-bb2e-ac5a57fa5f8f)
 <hr>
 
 - ### 30 Days of JavaScript study plan
