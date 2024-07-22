@@ -1,13 +1,11 @@
 class Solution:
     def sortPeople(self, names: list[str], heights: list[int]) -> list[str]:
-        n: int = len(names)
-        mapping: dict[int, str] = {}  # height -> name (heights are distinct)
-        for ind in range(n):
-            mapping[heights[ind]] = names[ind]
-
+        hash_table = {}
+        for i in range(len(heights)):
+            hash_table[heights[i]] = names[i]
         heights.sort(reverse=True)
-        for ind in range(n):
-            h: int = heights[ind]
-            names[ind] = mapping[h]
-
-        return names
+        res = []
+        for h in heights:
+            res.append(hash_table[h])
+            
+        return res
