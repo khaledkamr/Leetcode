@@ -19,6 +19,7 @@ class Solution:
                 if dist[v] * succProb[i] > dist[u]:
                     dist[u] = dist[v] * succProb[i]
                     updated = True
+                    
             if not updated:
                 break
 
