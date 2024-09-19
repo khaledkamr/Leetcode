@@ -22,7 +22,7 @@
 - ### Leetcode 75
   75 Essential & Trending problems must-do problem list for interview prep best for 1-3 month pf prep time
 
-  ![Screenshot 2024-08-04 120705](https://github.com/user-attachments/assets/a557b257-1408-4277-8ab4-0b20e764463f)
+  ![Screenshot 2024-09-19 120958](https://github.com/user-attachments/assets/1c9383c5-654e-461c-a500-021600a34823)
 
 <hr>
 
